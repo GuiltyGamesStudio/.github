@@ -1,38 +1,68 @@
-# Welcome to Guilty Games Studio 👾
+# 🎮 Welcome to Guilty Games Studio 👾  
 
-**Guilty Games Studio** is where creativity meets innovation, crafting unforgettable gaming experiences for players worldwide. We are a team of passionate developers, artists, and dreamers who love to create, innovate, and most importantly, play games!
-
----
-
-## 🎮 About Us
-
-At Guilty Games, we strive to:
-- **Prototype Bold Ideas:** Experimenting with fresh concepts and mechanics to bring new experiences to life.
-- **Celebrate Game Jams:** Game jams fuel our passion! We thrive on collaboration, creativity, and rapid innovation during these exciting events.
-- **Push the Boundaries of Art and Engineering:** Our work is a blend of stunning visuals and cutting-edge technology.
-- **Focus on Players:** Every game we create is designed to entertain, challenge, and connect with our players.
+🚀 **Where creativity meets innovation!** We craft unforgettable gaming experiences for players worldwide. Our team consists of passionate developers, artists, and dreamers who love to **create, innovate, and most importantly—play games!**
 
 ---
 
-## 🚀 Explore Our Work
+## 🕹️ About Us
 
-Check out our projects and prototypes:
-- [**Into the Abyss**](#): A daring journey into the unknown.
-- [**Made of Clay**](#): A Spin Adventure.
-- Our latest **game jam entries** that showcase creativity under tight deadlines.
-  
-Stay tuned as we continue to push the limits of game design and development.
+At **Guilty Games**, we strive to:  
+✔️ **Prototype Bold Ideas** – Experiment with fresh game concepts and mechanics.  
+✔️ **Celebrate Game Jams** – We thrive in fast-paced, creative environments.  
+✔️ **Push Boundaries in Art & Engineering** – Stunning visuals & cutting-edge tech.  
+✔️ **Focus on Players** – Games designed to entertain, challenge, and engage.  
 
----
-
-## 🌟 Join Us
-
-Whether you're a developer, designer, player, or a fan of great games, we'd love to connect with you! Follow us here on GitHub and be part of our journey to create something extraordinary.
-
-Let’s build games, celebrate the art and science of development, and have fun along the way!
+🎨 **We love making games, pushing creativity, and celebrating the art & science of game development!**
 
 ---
 
-*"We love making good games, we love game jams, and we love celebrating the art and engineering of creation."*
+## 🚀 Explore Our Work  
 
+### 🌟 **Featured Projects**  
+🎮 **[Into the Abyss](#)** – A daring journey into the unknown.  
+🌀 **[Made of Clay](#)** – A physics-based spin adventure.  
+🎭 **Game Jams & Prototypes** – Rapidly crafted experiences that showcase our creativity.  
+
+🔗 **Check out all of our games:** [**View More on GitHub**](https://github.com/GuiltyGamesStudio?tab=repositories)  
+
+---
+
+## 📌 Active Projects  
+
+| Project | Last Updated | Stars ⭐ | Forks 🍴 |
+|---------|--------------|----------|---------|
+<!-- ACTIVE_PROJECTS -->
+
+---
+
+## 📦 Archived Projects  
+
+| Project | Last Updated | Stars ⭐ | Forks 🍴 |
+|---------|--------------|----------|---------|
+<!-- ARCHIVED_PROJECTS -->
+
+---
+
+## 📊 GitHub Stats  
+🔹 **Total Contributions:** <!-- TOTAL_COMMITS -->  
+🔹 **Games Released:** <!-- GAMES_COUNT -->  
+🔹 **Total Forks:** <!-- TOTAL_FORKS -->  
+
+📈 *Tracking our progress as we build amazing games!*  
+
+---
+
+## 🤝 Join Us & Get Involved  
+
+💬 **Connect with us & stay updated:**  
+🔹 [**Website**](#) | 🎮 [**Itch.io**](https://guiltygames.itch.io/)  
+
+💡 **Want to contribute?**  
+- Check out our **[contribution guide](#)**  
+- Report bugs or suggest features via **[Issues](https://github.com/GuiltyGamesStudio/issues)**  
+
+---
+
+🛠️ *We build, we innovate, and we play!* 🎮✨  
+*"We love making great games, participating in game jams, and celebrating the craft of game development."*  
 — **Guilty Games Studio**
