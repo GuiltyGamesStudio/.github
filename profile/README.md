@@ -43,6 +43,18 @@ At **Guilty Games**, we strive to:
 
 ---
 
+## 📊 Developer Contributions  
+
+| Developer | Commits (Last 30 Days) |
+|-----------|------------------------|
+<!-- COMMIT_SUMMARY -->
+
+---
+
+## 🕒 Last Updated:  
+**This README was last updated on:**  
+📅 **<!-- LAST_RUN_DATE -->**  
+
 ## 📊 GitHub Stats  
 🔹 **Total Contributions:** <!-- TOTAL_COMMITS -->  
 🔹 **Games Released:** <!-- GAMES_COUNT -->  
