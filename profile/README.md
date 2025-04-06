@@ -31,8 +31,9 @@ At **Guilty Games**, we strive to:
 
 | Project | Last Updated | Stars ⭐ | Forks 🍴 |
 |---------|--------------|----------|---------|
-Made of Clay
-Retro Shooter
+Made of Clay | 4/6/2025| N/A | N/A|
+Retro Shooter | 4/6/2025| N/A | N/A|
+Into The Abyss | 4/6/2025| N/A | N/A|
 
 ---
 
@@ -40,7 +41,8 @@ Retro Shooter
 
 | Project | Last Updated | Stars ⭐ | Forks 🍴 |
 |---------|--------------|----------|---------|
-<!-- ARCHIVED_PROJECTS -->
+Good Hole | 4/6/2025| N/A | N/A|
+Bad Hole | 4/6/2025| N/A | N/A|
 
 ---
 
