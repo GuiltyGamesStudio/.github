@@ -50,7 +50,8 @@ Bad Hole | 4/6/2025| N/A | N/A|
 
 | Developer | Commits (Last 30 Days) |
 |-----------|------------------------|
-<!-- COMMIT_SUMMARY -->
+|Mason | TBD |
+|Pat | TBD |
 
 ---
 
