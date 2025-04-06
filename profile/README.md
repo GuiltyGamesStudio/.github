@@ -31,7 +31,8 @@ At **Guilty Games**, we strive to:
 
 | Project | Last Updated | Stars ⭐ | Forks 🍴 |
 |---------|--------------|----------|---------|
-<!-- ACTIVE_PROJECTS -->
+Made of Clay
+Retro Shooter
 
 ---
 
